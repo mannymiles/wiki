@@ -1,4 +1,0 @@
-= Greetings
-This is regular text.
-This is **bold** text.
-> Block quote
